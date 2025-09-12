@@ -9,7 +9,8 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/Sneha_Ray_Barman_CV.pdf
+    #url: /cv/
 
   - title: "Presentations"
     url: /presentations/  
