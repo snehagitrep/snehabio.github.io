@@ -26,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "Sneha Ray Barman"
   pronouns         : "she/her"  
-  bio              : "full-time overthinker, part-time linguist"
-  location         : "Kolkata, India"
+  bio              : "Full-time overthinker, part-time linguist"
+  location         : "Guwahati, India"
   employer         : "Indian Institute of Technology Guwahati"
   uri              : # URL
   email            : "sneha.barman@iitg.ac.in" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : "Sneha_ray"
+  arxiv            : #"Sneha_ray"
   googlescholar    : "https://scholar.google.com/citations?user=6a0FSX4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0002-0073-1113"
+  orcid            : #"https://orcid.org/0009-0002-0073-1113"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Sneha-Ray-Barman-2?ev=hdr_xprf"
+  researchgate     : #"https://www.researchgate.net/profile/Sneha-Ray-Barman-2?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
@@ -49,7 +49,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "snehagitrep"
-  kaggle           : "supersunsei"  
+  kaggle           : #"supersunsei"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
