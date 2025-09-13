@@ -24,8 +24,8 @@ repository               : "https://github.com/snehagitrep/snehabio.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sneha Ray Barman"
-  pronouns         : "she/her"  
+  name             : "Sneha Ray Barman (She/Her)"
+  pronouns         : #"she/her"  
   bio              : "Full-time overthinker, part-time linguist"
   location         : "Guwahati, India"
   employer         : "IIT Guwahati"
