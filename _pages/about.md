@@ -12,4 +12,4 @@ My research asks a simple question with tricky consequences: how do learners acq
 
 India’s linguistic diversity makes it an ideal stress-test: I focus on low-resource settings and under-documented phenomena in Indian languages, evaluating whether state-of-the-art systems can generalize reliably when data are thin, and what that reveals about the signals humans might exploit.
 
-You can browse current and in-progress work [here](), and a few things I make or notice when I’m not debugging code, I like finding form and pattern—whether in spectra, sentences, or street corners[[more]()].
+You can browse current and in-progress work [here](https://scholar.google.com/citations?user=6a0FSX4AAAAJ&hl=en), and a few things I make or notice when I’m not debugging code, I like finding form and pattern—whether in spectra, sentences, or street corners[[more]()].
