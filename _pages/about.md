@@ -13,4 +13,4 @@ My research explores how learners acquire sound patterns in their native languag
 
 My PhD thesis largely revolves around understanding how machines learn vowel harmony patterns in Assamese (an Indo-Aryan language spoken in Assam, northeast India) and Bengali/Bangla (another Indo-Aryan language spoken across West Bengal, Bangladesh, Tripura, and other parts of India; also my mother tongue). Ongoing projects and presented/published works are available [here]().
 
-You can browse current and in-progress work [here](https://scholar.google.com/citations?user=6a0FSX4AAAAJ&hl=en), and a few things I make or notice when I’m not debugging code, I like finding form and pattern—whether in spectra, sentences, or street corners[[more]()].
+You can browse current and in-progress work [here](https://scholar.google.com/citations?user=6a0FSX4AAAAJ&hl=en), and a few things I make or notice when I’m not debugging code, I like finding form and pattern—whether in spectra, sentences, or street corners [more]().
