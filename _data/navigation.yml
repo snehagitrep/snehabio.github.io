@@ -9,8 +9,8 @@
 
 main:
   - title: "CV"
-    url: /files/Sneha_Ray_Barman_CV.pdf
-    #url: /cv/
+    #url: /files/Sneha_Ray_Barman_CV.pdf
+    url: https://www.overleaf.com/project/63d37304f2691916114f8fe5
 
   - title: "Research"
     url: research  
